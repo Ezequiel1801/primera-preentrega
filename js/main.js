@@ -312,7 +312,7 @@ function almacenamientoHhd(){
                 }
                 break;
             case "3":
-                pregunta = prompt("¿Está seguro de sumar 'Disco Rigido WD 2TB BLUE 256MB SATA 6.0GB/s' a su carrito de compras? 1- SI || 2- NO");
+                pregunta = prompt("¿Está seguro de sumar 'Disco Rígido HDD Seagate BarraCuda 2TB 256MB 5400rpm SATA 3.5' a su carrito de compras? 1- SI || 2- NO");
                 if(pregunta==="1"){
                     costo=90500;
                     costoTotal += costo;
